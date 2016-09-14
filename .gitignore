@@ -20,3 +20,4 @@ bootstrap/cache/
 
 .rocketeer/
 .DS_Store
+.idea/
